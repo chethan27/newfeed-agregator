@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0;
+        width :500px;
+      }
+
+      .cls-2 {
+        fill: #ffecb3;
+      }
+    </style>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-487 -563)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-1" width="24" height="24" transform="translate(487 563)"/>
+    <g id="camera-night-mode" transform="translate(490.999 566.835)">
+      <path id="Path_1" data-name="Path 1" class="cls-2" d="M13.837,13.786a8.062,8.062,0,0,0,2.152-3.845.411.411,0,0,0-.693-.382l-.011.011A6.144,6.144,0,0,1,6.523.955L6.61.866a.41.41,0,0,0-.383-.69,8.1,8.1,0,1,0,7.61,13.609Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

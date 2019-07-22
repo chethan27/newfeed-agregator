@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #8bc34a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="ic_check" transform="translate(-329 -78)">
+    <rect id="rectangle" class="cls-1" width="24" height="24" transform="translate(329 78)"/>
+    <path id="path" class="cls-2" d="M9,16.2,4.8,12,3.4,13.4,9,19,21,7,19.6,5.6Z" transform="translate(329 78)"/>
+  </g>
+</svg>
